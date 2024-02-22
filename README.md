@@ -1,2 +1,8 @@
-# Unit3.ReactForms
-In this workshop, you will pass the /signup route, either a username and password which will come from a React form. On success, the API will send back a token, which you can store, then pass to the server to authenticate future requests.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
